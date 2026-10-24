@@ -1,4 +1,4 @@
-# MFTracker-Web 💸
+# mftracker-web 💸
 
 This repository contains the source code and documentation for a Personal Finance & Expense Tracker App. It is developed as a showcase of my front-end development capabilities and integrated into my digital portfolio.
 
@@ -11,7 +11,7 @@ This project emphasizes core web fundamentals (*native skills*):
 
 ### 🚀 Live Demo
 Visit the link below to view the live implementation:
-👉 **[View MFTracker-Web](https://ansyahmf.github.io/MFTracker-Web)**
+👉 **[View MFTracker-Web](https://ansyahmf.github.io/mftracker-web)**
 
 ---
 
